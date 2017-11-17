@@ -1,0 +1,15 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.circle-left {
+    float: left;
+}
+
+.circle-right{
+    float: right;
+    margin-right: 100px;
+}
